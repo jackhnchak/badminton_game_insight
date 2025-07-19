@@ -1,0 +1,10 @@
+ fastapi
+ uvicorn[standard]
+ pydantic
+ celery[redis]
+ redis
+ ultralytics>=8.0.0
+ opencv-python-headless
+ numpy
+ python-multipart
+ async-timeout<5.0
